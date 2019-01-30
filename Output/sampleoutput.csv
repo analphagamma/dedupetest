@@ -1,0 +1,865 @@
+Cluster ID,confidence_score,name,address,city,cuisine,canonical_name,canonical_address,canonical_city,canonical_cuisine
+0,0.9653696,granita, 23725 w. malibu rd., malibu, californian,b'granita',b'23725 w. malibu rd.',b'malibu',b'californian'
+0,0.9653696,granita, 23725 w. malibu rd., malibu, californian,b'granita',b'23725 w. malibu rd.',b'malibu',b'californian'
+1,0.9653696,valentino, 3115 pico blvd., santa monica, italian,b'valentino',b'3115 pico blvd.',b'santa monica',b'italian'
+1,0.9653696,valentino, 3115 pico blvd., santa monica, italian,b'valentino',b'3115 pico blvd.',b'santa monica',b'italian'
+2,0.9653696,veni vidi vici, 41 14th st., atlanta, italian,b'veni vidi vici',b'41 14th st.',b'atlanta',b'italian'
+2,0.9653696,veni vidi vici, 41 14th st., atlanta, italian,b'veni vidi vici',b'41 14th st.',b'atlanta',b'italian'
+3,0.9653696,rose pistola, 532 columbus ave., san francisco, italian,b'rose pistola',b'532 columbus ave.',b'san francisco',b'italian'
+3,0.9653696,rose pistola, 532 columbus ave., san francisco, italian,b'rose pistola',b'532 columbus ave.',b'san francisco',b'italian'
+4,0.9653696,patina, 5955 melrose ave., los angeles, californian,b'patina',b'5955 melrose ave.',b'los angeles',b'californian'
+4,0.9653696,patina, 5955 melrose ave., los angeles, californian,b'patina',b'5955 melrose ave.',b'los angeles',b'californian'
+5,0.9653696,citrus, 6703 melrose ave., los angeles, californian,b'citrus',b'6703 melrose ave.',b'los angeles',b'californian'
+5,0.9653696,citrus, 6703 melrose ave., los angeles, californian,b'citrus',b'6703 melrose ave.',b'los angeles',b'californian'
+6,0.9646238,mary mac's tea room, 224 ponce de leon ave., atlanta, southern,"b""mary mac's tea room""",b'224 ponce de leon ave.',b'atlanta',b'southern'
+6,0.9646238,mary mac's tea room, 224 ponce de leon ave., atlanta, southern/soul,"b""mary mac's tea room""",b'224 ponce de leon ave.',b'atlanta',b'southern'
+7,0.9645717,boulevard, 1 mission st., san francisco, american,b'boulevard',b'1 mission st.',b'san francisco',b'american'
+7,0.9645717,boulevard, 1 mission st., san francisco, american (new),b'boulevard',b'1 mission st.',b'san francisco',b'american'
+8,0.9645717,campton place, 340 stockton st., san francisco, american,b'campton place',b'340 stockton st.',b'san francisco',b'american'
+8,0.9645717,campton place, 340 stockton st., san francisco, american (new),b'campton place',b'340 stockton st.',b'san francisco',b'american'
+9,0.964392,alain rondelli, 126 clement st., san francisco, french,b'alain rondelli',b'126 clement st.',b'san francisco',b'french'
+9,0.964392,alain rondelli, 126 clement st., san francisco, french (new),b'alain rondelli',b'126 clement st.',b'san francisco',b'french'
+10,0.964392,la folie, 2316 polk st., san francisco, french,b'la folie',b'2316 polk st.',b'san francisco',b'french'
+10,0.964392,la folie, 2316 polk st., san francisco, french (new),b'la folie',b'2316 polk st.',b'san francisco',b'french'
+11,0.964392,masa's, 648 bush st., san francisco, french,"b""masa's""",b'648 bush st.',b'san francisco',b'french'
+11,0.964392,masa's, 648 bush st., san francisco, french (new),"b""masa's""",b'648 bush st.',b'san francisco',b'french'
+12,0.964392,fleur de lys, 777 sutter st., san francisco, french,b'fleur de lys',b'777 sutter st.',b'san francisco',b'french'
+12,0.964392,fleur de lys, 777 sutter st., san francisco, french (new),b'fleur de lys',b'777 sutter st.',b'san francisco',b'french'
+13,0.96434355,cafe bizou, 14016 ventura blvd., sherman oaks, french,b'cafe bizou',b'14016 ventura blvd.',b'sherman oaks',b'french'
+13,0.96434355,cafe bizou, 14016 ventura blvd., sherman oaks, french bistro,b'cafe bizou',b'14016 ventura blvd.',b'sherman oaks',b'french'
+14,0.9620622,felidia, 243 e. 58th st., new york, italian,b'felidia',b'243 e. 58th st.',b'new york',b'italian'
+14,0.9620622,felidia, 243 e. 58th st., new york city, italian,b'felidia',b'243 e. 58th st.',b'new york',b'italian'
+15,0.9620622,picholine, 35 w. 64th st., new york, mediterranean,b'picholine',b'35 w. 64th st.',b'new york',b'mediterranean'
+15,0.9620622,picholine, 35 w. 64th st., new york city, mediterranean,b'picholine',b'35 w. 64th st.',b'new york',b'mediterranean'
+16,0.9620622,oceana, 55 e. 54th st., new york, seafood,b'oceana',b'55 e. 54th st.',b'new york',b'seafood'
+16,0.9620622,oceana, 55 e. 54th st., new york city, seafood,b'oceana',b'55 e. 54th st.',b'new york',b'seafood'
+17,0.9620622,manhattan ocean club, 57 w. 58th st., new york, seafood,b'manhattan ocean club',b'57 w. 58th st.',b'new york',b'seafood'
+17,0.9620622,manhattan ocean club, 57 w. 58th st., new york city, seafood,b'manhattan ocean club',b'57 w. 58th st.',b'new york',b'seafood'
+18,0.9611911,gotham bar & grill, 12 e. 12th st., new york, american,b'gotham bar & grill',b'12 e. 12th st.',b'new york',b'american'
+18,0.9611911,gotham bar & grill, 12 e. 12th st., new york city, american (new),b'gotham bar & grill',b'12 e. 12th st.',b'new york',b'american'
+19,0.9611911,union square cafe, 21 e. 16th st., new york, american,b'union square cafe',b'21 e. 16th st.',b'new york',b'american'
+19,0.9611911,union square cafe, 21 e. 16th st., new york city, american (new),b'union square cafe',b'21 e. 16th st.',b'new york',b'american'
+20,0.9611911,21 club, 21 w. 52nd st., new york, american,b'21 club',b'21 w. 52nd st.',b'new york',b'american'
+20,0.9611911,21 club, 21 w. 52nd st., new york city, american (new),b'21 club',b'21 w. 52nd st.',b'new york',b'american'
+21,0.9611911,aureole, 34 e. 61st st., new york, american,b'aureole',b'34 e. 61st st.',b'new york',b'american'
+21,0.9611911,aureole, 34 e. 61st st., new york city, american (new),b'aureole',b'34 e. 61st st.',b'new york',b'american'
+22,0.9611911,march, 405 e. 58th st., new york, american,b'march',b'405 e. 58th st.',b'new york',b'american'
+22,0.9611911,march, 405 e. 58th st., new york city, american (new),b'march',b'405 e. 58th st.',b'new york',b'american'
+23,0.96099496,daniel, 20 e. 76th st., new york, french,b'daniel',b'20 e. 76th st.',b'new york',b'french'
+23,0.96099496,daniel, 20 e. 76th st., new york city, french (new),b'daniel',b'20 e. 76th st.',b'new york',b'french'
+24,0.960812,lutece, 249 e. 50th st., new york, french,b'lutece',b'249 e. 50th st.',b'new york',b'french'
+24,0.960812,lutece, 249 e. 50th st., new york city, french (classic),b'lutece',b'249 e. 50th st.',b'new york',b'french'
+25,0.960812,la caravelle, 33 w. 55th st., new york, french,b'la caravelle',b'33 w. 55th st.',b'new york',b'french'
+25,0.960812,la caravelle, 33 w. 55th st., new york city, french (classic),b'la caravelle',b'33 w. 55th st.',b'new york',b'french'
+26,0.960549,san domenico, 240 central park s, new york, italian,b'san domenico',b'240 central park s',b'new york',b'italian'
+26,0.960549,san domenico, 240 central park s., new york city, italian,b'san domenico',b'240 central park s',b'new york',b'italian'
+27,0.95632267,le chardonnay, 8284 melrose ave., los angeles, french,b'le chardonnay',b'8284 melrose ave.',b'los angeles',b'french'
+27,0.95632267,le chardonnay (los angeles), 8284 melrose ave., los angeles, french bistro,b'le chardonnay',b'8284 melrose ave.',b'los angeles',b'french'
+28,0.95316553,park avenue cafe, 100 e. 63rd st., new york, american,b'park avenue cafe',b'100 e. 63rd st.',b'new york',b'american'
+28,0.95316553,park avenue cafe (new york city), 100 e. 63rd st., new york city, american (new),b'park avenue cafe',b'100 e. 63rd st.',b'new york',b'american'
+29,0.9557873,ciboulette, 1529 piedmont ave., atlanta, french,b'ciboulette',b'1529 piedmont ave.',b'atlanta',b'french'
+29,0.9557873,ciboulette restaurant, 1529 piedmont ave., atlanta, french (new),b'ciboulette',b'1529 piedmont ave.',b'atlanta',b'french'
+30,0.9530185,four seasons, 99 e. 52nd st., new york city, american (new),b'four seasons',b'99 e. 52nd st.',b'new york city',b'american (new)'
+30,0.9530185,four seasons grill room, 99 e. 52nd st., new york, american,b'four seasons',b'99 e. 52nd st.',b'new york city',b'american (new)'
+31,0.95213544,island spice, 402 w. 44th st., new york, tel caribbean,b'island spice',b'402 w. 44th st.',b'new york',b'tel caribbean'
+31,0.95213544,island spice, 402 w. 44th st., new york city, caribbean,b'island spice',b'402 w. 44th st.',b'new york',b'tel caribbean'
+32,0.9558274,coyote cafe, 3799 las vegas blvd. s, las vegas, southwestern,b'coyote cafe',b'3799 las vegas blvd. s',b'las vegas',b'southwestern'
+32,0.9558274,coyote cafe (las vegas), 3799 las vegas blvd. s., las vegas, southwestern,b'coyote cafe',b'3799 las vegas blvd. s',b'las vegas',b'southwestern'
+33,0.9502571,cafe lalo, 201 w. 83rd st., new york, coffee bar,b'cafe lalo',b'201 w. 83rd st.',b'new york',b'coffee bar'
+33,0.9502571,cafe lalo, 201 w. 83rd st., new york city, coffeehouses,b'cafe lalo',b'201 w. 83rd st.',b'new york',b'coffee bar'
+34,0.9607516,nikolai's roof, 255 courtland st., atlanta, continental,"b""nikolai's roof""",b'255 courtland st.',b'atlanta',b'continental'
+34,0.9607516,nikolai's roof, 255 courtland st.  at harris st., atlanta, continental,"b""nikolai's roof""",b'255 courtland st.',b'atlanta',b'continental'
+35,0.95208025,rex il ristorante, 617 s. olive st., los angeles, italian,b'rex il ristorante',b'617 s. olive st.',b'los angeles',b'italian'
+35,0.95208025,rex il ristorante, 617 s. olive st., los angeles, nuova cucina italian,b'rex il ristorante',b'617 s. olive st.',b'los angeles',b'italian'
+36,0.9542362,steak house, 2880 las vegas blvd. s, las vegas, steak houses,b'steak house',b'2880 las vegas blvd. s',b'las vegas',b'steak houses'
+36,0.9542362,steak house  the, 2880 las vegas blvd. s., las vegas, steakhouses,b'steak house',b'2880 las vegas blvd. s',b'las vegas',b'steak houses'
+37,0.94601816,seryna, 11 e. 53rd st., new york, asian,b'seryna',b'11 e. 53rd st.',b'new york',b'asian'
+37,0.94601816,seryna, 11 e. 53rd st., new york city, japanese,b'seryna',b'11 e. 53rd st.',b'new york',b'asian'
+100,0,lulu, 816 folsom st., san francisco, mediterranean
+101,0,lulu restaurant-bis-cafe, 816 folsom st., san francisco, mediterranean
+38,0.94731957,chinois on main, 2709 main st., santa monica, french,b'chinois on main',b'2709 main st.',b'santa monica',b'french'
+38,0.94731957,chinois on main, 2709 main st., santa monica, pacific new wave,b'chinois on main',b'2709 main st.',b'santa monica',b'french'
+39,0.9552736,pisces, 95 ave. a, new york city, seafood,b'pisces',b'95 ave. a',b'new york city',b'seafood'
+39,0.9552736,pisces, 95 ave. a at 6th st., new york, seafood,b'pisces',b'95 ave. a',b'new york city',b'seafood'
+40,0.9550576,mi cocina, 57 jane st., new york city, mexican,b'mi cocina',b'57 jane st.',b'new york city',b'mexican'
+40,0.9550576,mi cocina, 57 jane st.  off hudson st., new york, mexican,b'mi cocina',b'57 jane st.',b'new york city',b'mexican'
+102,0,river cafe, 1 water st., brooklyn, american (new)
+103,0,river cafe, 1 water st. at the east river, brooklyn, american
+41,0.95695204,brasserie le coze, 3393 peachtree rd., atlanta, french bistro,b'brasserie le coze',b'3393 peachtree rd.',b'atlanta',b'french bistro'
+41,0.95695204,brasserie le coze, 3393 peachtree rd.  lenox square mall  near neiman marcus, atlanta, french,b'brasserie le coze',b'3393 peachtree rd.',b'atlanta',b'french bistro'
+42,0.942989,aqua, 252 california st., san francisco, seafood,b'aqua',b'252 california st.',b'san francisco',b'seafood'
+42,0.942989,aqua, 252 california st., san francisco, american (new),b'aqua',b'252 california st.',b'san francisco',b'seafood'
+43,0.939391,dawat, 210 e. 58th st., new york, asian,b'dawat',b'210 e. 58th st.',b'new york',b'asian'
+43,0.939391,dawat, 210 e. 58th st., new york city, indian,b'dawat',b'210 e. 58th st.',b'new york',b'asian'
+44,0.9393242,aquavit, 13 w. 54th st., new york, continental,b'aquavit',b'13 w. 54th st.',b'new york',b'continental'
+44,0.9393242,aquavit, 13 w. 54th st., new york city, scandinavian,b'aquavit',b'13 w. 54th st.',b'new york',b'continental'
+45,0.9539798,carmine's, 2450 broadway, new york city, italian,"b""carmine's""",b'2450 broadway',b'new york city',b'italian'
+45,0.9539798,carmine's, 2450 broadway  between 90th and 91st sts., new york, italian,"b""carmine's""",b'2450 broadway',b'new york city',b'italian'
+46,0.95305544,la cote basque, 60 w. 55th st., new york city, french (classic),b'la cote basque',b'60 w. 55th st.',b'new york city',b'french (classic)'
+46,0.95305544,la cote basque, 60 w. 55th st.  between 5th and 6th ave., new york, french,b'la cote basque',b'60 w. 55th st.',b'new york city',b'french (classic)'
+47,0.95290494,montrachet, 239 w. broadway, new york city, french bistro,b'montrachet',b'239 w. broadway',b'new york city',b'french bistro'
+47,0.95290494,montrachet, 239 w. broadway  between walker and white sts., new york, french,b'montrachet',b'239 w. broadway',b'new york city',b'french bistro'
+48,0.93799096,jo jo, 160 e. 64th st., new york, american,b'jo jo',b'160 e. 64th st.',b'new york',b'american'
+48,0.93799096,jo jo, 160 e. 64th st., new york city, french bistro,b'jo jo',b'160 e. 64th st.',b'new york',b'american'
+49,0.9406199,hawthorne lane, 22 hawthorne st., san francisco, american,b'hawthorne lane',b'22 hawthorne st.',b'san francisco',b'american'
+49,0.9406199,hawthorne lane, 22 hawthorne st., san francisco, californian,b'hawthorne lane',b'22 hawthorne st.',b'san francisco',b'american'
+50,0.9406199,postrio, 545 post st., san francisco, american,b'postrio',b'545 post st.',b'san francisco',b'american'
+50,0.9406199,postrio, 545 post st., san francisco, californian,b'postrio',b'545 post st.',b'san francisco',b'american'
+51,0.9406199,campanile, 624 s. la brea ave., los angeles, american,b'campanile',b'624 s. la brea ave.',b'los angeles',b'american'
+51,0.9406199,campanile, 624 s. la brea ave., los angeles, californian,b'campanile',b'624 s. la brea ave.',b'los angeles',b'american'
+52,0.9525898,gramercy tavern, 42 e. 20th st., new york city, american (new),b'gramercy tavern',b'42 e. 20th st.',b'new york city',b'american (new)'
+52,0.9525898,gramercy tavern, 42 e. 20th st.  between park ave. s and broadway, new york, american,b'gramercy tavern',b'42 e. 20th st.',b'new york city',b'american (new)'
+53,0.93981516,tillerman, 2245 e. flamingo rd., las vegas, seafood,b'tillerman',b'2245 e. flamingo rd.',b'las vegas',b'seafood'
+53,0.93981516,tillerman  the, 2245 e. flamingo rd., las vegas, steakhouses,b'tillerman',b'2245 e. flamingo rd.',b'las vegas',b'seafood'
+54,0.93504834,rainbow room, 30 rockefeller plaza, new york, or 212/632-5100 american,b'rainbow room',b'30 rockefeller plaza',b'new york',b'or 212/632-5100 american'
+54,0.93504834,rainbow room, 30 rockefeller plaza, new york city, american (new),b'rainbow room',b'30 rockefeller plaza',b'new york',b'or 212/632-5100 american'
+55,0.9413102,chin's, 3200 las vegas blvd. s, las vegas, asian,"b""chin's""",b'3200 las vegas blvd. s',b'las vegas',b'asian'
+55,0.9413102,chin's, 3200 las vegas blvd. s., las vegas, chinese,"b""chin's""",b'3200 las vegas blvd. s',b'las vegas',b'asian'
+56,0.9371032,delectables, 1 margaret mitchell sq., atlanta, american,b'delectables',b'1 margaret mitchell sq.',b'atlanta',b'american'
+56,0.9371032,delectables, 1 margaret mitchell sq., atlanta, cafeterias,b'delectables',b'1 margaret mitchell sq.',b'atlanta',b'american'
+57,0.93294,cafe des artistes, 1 w. 67th st., new york, continental,b'cafe des artistes',b'1 w. 67th st.',b'new york',b'continental'
+57,0.93294,cafe des artistes, 1 w. 67th st., new york city, french (classic),b'cafe des artistes',b'1 w. 67th st.',b'new york',b'continental'
+58,0.93612444,matsuhisa, 129 n. la cienega blvd., beverly hills, asian,b'matsuhisa',b'129 n. la cienega blvd.',b'beverly hills',b'asian'
+58,0.93612444,matsuhisa, 129 n. la cienega blvd., beverly hills, seafood,b'matsuhisa',b'129 n. la cienega blvd.',b'beverly hills',b'asian'
+59,0.93547016,second street grill, 200 e. fremont st., las vegas, pacific rim,b'second street grill',b'200 e. fremont st.',b'las vegas',b'pacific rim'
+59,0.93547016,second street grille, 200 e. fremont st., las vegas, seafood,b'second street grill',b'200 e. fremont st.',b'las vegas',b'pacific rim'
+60,0.93348736,khan toke thai house, 5937 geary blvd., san francisco, asian,b'khan toke thai house',b'5937 geary blvd.',b'san francisco',b'asian'
+60,0.93348736,khan toke thai house, 5937 geary blvd., san francisco, thai,b'khan toke thai house',b'5937 geary blvd.',b'san francisco',b'asian'
+61,0.92930925,lespinasse, 2 e. 55th st., new york, american,b'lespinasse',b'2 e. 55th st.',b'new york',b'american'
+61,0.92930925,lespinasse (new york city), 2 e. 55th st., new york city, asian,b'lespinasse',b'2 e. 55th st.',b'new york',b'american'
+62,0.93184304,indigo coastal grill, 1397 n. highland ave., atlanta, caribbean,b'indigo coastal grill',b'1397 n. highland ave.',b'atlanta',b'caribbean'
+62,0.93184304,indigo coastal grill, 1397 n. highland ave., atlanta, eclectic,b'indigo coastal grill',b'1397 n. highland ave.',b'atlanta',b'caribbean'
+63,0.92729163,virgil's, 152 w. 44th st., new york, american,"b""virgil's""",b'152 w. 44th st.',b'new york',b'american'
+63,0.92729163,virgil's real bbq, 152 w. 44th st., new york city, bbq,"b""virgil's""",b'152 w. 44th st.',b'new york',b'american'
+64,0.9262024,le bernardin, 155 w. 51st st., new york, french,b'le bernardin',b'155 w. 51st st.',b'new york',b'french'
+64,0.9262024,le bernardin, 155 w. 51st st., new york city, seafood,b'le bernardin',b'155 w. 51st st.',b'new york',b'french'
+65,0.9262024,petrossian, 182 w. 58th st., new york, french,b'petrossian',b'182 w. 58th st.',b'new york',b'french'
+65,0.9262024,petrossian, 182 w. 58th st., new york city, russian,b'petrossian',b'182 w. 58th st.',b'new york',b'french'
+66,0.9293598,art's deli, 12224 ventura blvd., studio city, delis,"b""art's deli""",b'12224 ventura blvd.',b'studio city',b'delis'
+66,0.9293598,art's delicatessen, 12224 ventura blvd., studio city, american,"b""art's deli""",b'12224 ventura blvd.',b'studio city',b'delis'
+67,0.928693,mifune, 1737 post st., san francisco, japanese,b'mifune',b'1737 post st.',b'san francisco',b'japanese'
+67,0.928693,mifune japan center  kintetsu building, 1737 post st., san francisco, asian,b'mifune',b'1737 post st.',b'san francisco',b'japanese'
+68,0.9313285,palace court, 3570 las vegas blvd. s, las vegas, continental,b'palace court',b'3570 las vegas blvd. s',b'las vegas',b'continental'
+68,0.9313285,palace court, 3570 las vegas blvd. s., las vegas, french (new),b'palace court',b'3570 las vegas blvd. s',b'las vegas',b'continental'
+69,0.93092746,hedgerose heights inn, 490 e. paces ferry rd., atlanta, international,b'hedgerose heights inn',b'490 e. paces ferry rd.',b'atlanta',b'international'
+69,0.93092746,hedgerose heights inn  the, 490 e. paces ferry rd. ne, atlanta, continental,b'hedgerose heights inn',b'490 e. paces ferry rd.',b'atlanta',b'international'
+104,0,heera of india, 595 piedmont ave., atlanta, indian
+105,0,heera of india, 595 piedmont ave.  rio shopping mall, atlanta, asian
+70,0.93143195,bacchanalia, 3125 piedmont rd., atlanta, californian,b'bacchanalia',b'3125 piedmont rd.',b'atlanta',b'californian'
+70,0.93143195,bacchanalia, 3125 piedmont rd.  near peachtree rd., atlanta, international,b'bacchanalia',b'3125 piedmont rd.',b'atlanta',b'californian'
+71,0.92665744,chanterelle, 2 harrison st., new york city, french (new),b'chanterelle',b'2 harrison st.',b'new york city',b'french (new)'
+71,0.92665744,chanterelle, 2 harrison st.  near hudson st., new york, american,b'chanterelle',b'2 harrison st.',b'new york city',b'french (new)'
+72,0.9484137,cafe claude, 7 claude la., san francisco, french,b'cafe claude',b'7 claude la.',b'san francisco',b'french'
+72,0.9484137,cafe claude, 7 claude ln., san francisco, french bistro,b'cafe claude',b'7 claude la.',b'san francisco',b'french'
+73,0.94836795,abruzzi, 2355 peachtree rd.  peachtree battle shopping center, atlanta, italian,b'abruzzi',b'2355 peachtree rd.  peachtree battle shopping center',b'atlanta',b'italian'
+73,0.94836795,abruzzi, 2355 peachtree rd. ne, atlanta, italian,b'abruzzi',b'2355 peachtree rd.  peachtree battle shopping center',b'atlanta',b'italian'
+106,0,la grotta, 2637 peachtree rd.  peachtree house condominium, atlanta, italian
+107,0,la grotta, 2637 peachtree rd. ne, atlanta, italian
+108,0,georgia grille, 2290 peachtree rd., atlanta, southwestern
+109,0,georgia grille, 2290 peachtree rd.  peachtree square shopping center, atlanta, american
+74,0.55161566,l'orangerie, 903 n. la cienega blvd., los angeles, french,"b""l'orangerie""",b'903 n. la cienega blvd.',b'los angeles',b'french'
+74,0.55161566,l'orangerie, 903 n. la cienega blvd., w. hollywood, french (classic),"b""l'orangerie""",b'903 n. la cienega blvd.',b'los angeles',b'french'
+75,0.52929896,pinot bistro, 12969 ventura blvd., los angeles, french,b'pinot bistro',b'12969 ventura blvd.',b'los angeles',b'french'
+75,0.52929896,pinot bistro, 12969 ventura blvd., studio city, french bistro,b'pinot bistro',b'12969 ventura blvd.',b'los angeles',b'french'
+76,0.92575717,arnie morton's of chicago, 435 s. la cienega blv., los angeles, american,"b""arnie morton's of chicago""",b'435 s. la cienega blv.',b'los angeles',b'american'
+76,0.92575717,arnie morton's of chicago, 435 s. la cienega blvd., los angeles, steakhouses,"b""arnie morton's of chicago""",b'435 s. la cienega blv.',b'los angeles',b'american'
+77,0.8127934,fenix at the argyle, 8358 sunset blvd., w. hollywood, french (new),b'fenix at the argyle',b'8358 sunset blvd.',b'w. hollywood',b'french (new)'
+77,0.8127934,fenix, 8358 sunset blvd. west, hollywood, american,b'fenix at the argyle',b'8358 sunset blvd.',b'w. hollywood',b'french (new)'
+110,0,buckhead diner, 3073 piedmont rd., atlanta, american (new)
+111,0,buckhead diner, 3073 piedmont road, atlanta, american
+78,0.5297543,yujean kang's, 67 n. raymond ave., pasadena, chinese,"b""yujean kang's""",b'67 n. raymond ave.',b'pasadena',b'chinese'
+78,0.5297543,yujean kang's gourmet chinese cuisine, 67 n. raymond ave., los angeles, asian,"b""yujean kang's""",b'67 n. raymond ave.',b'pasadena',b'chinese'
+79,0.90347487,chez michel, 804 north point st., san francisco, californian,b'chez michel',b'804 north point st.',b'san francisco',b'californian'
+79,0.90347487,chez michel, 804 northpoint, san francisco, french,b'chez michel',b'804 north point st.',b'san francisco',b'californian'
+80,0.79798025,pano's & paul's, 1232 w. paces ferry rd., atlanta, american (new),"b""pano's & paul's""",b'1232 w. paces ferry rd.',b'atlanta',b'american (new)'
+80,0.79798025,pano's and paul's, 1232 w. paces ferry rd., atlanta, international,"b""pano's & paul's""",b'1232 w. paces ferry rd.',b'atlanta',b'american (new)'
+81,0.3575523,philippe the original, 1001 n. alameda st., chinatown, cafeterias,b'philippe the original',b'1001 n. alameda st.',b'chinatown',b'cafeterias'
+81,0.3575523,philippe's the original, 1001 n. alameda st., los angeles, american,b'philippe the original',b'1001 n. alameda st.',b'chinatown',b'cafeterias'
+82,0.28845334,grill  the, 9560 dayton way, beverly hills, american (traditional),b'grill  the',b'9560 dayton way',b'beverly hills',b'american (traditional)'
+82,0.28845334,grill on the alley, 9560 dayton way, los angeles, american,b'grill  the',b'9560 dayton way',b'beverly hills',b'american (traditional)'
+112,0,toulouse, 293-b peachtree rd., atlanta, french (new)
+113,0,toulouse, b peachtree rd., atlanta, french
+83,0.85120946,le montrachet bistro, 3000 paradise rd., las vegas, french bistro,b'le montrachet bistro',b'3000 paradise rd.',b'las vegas',b'french bistro'
+83,0.85120946,le montrachet, 3000 w. paradise rd., las vegas, continental,b'le montrachet bistro',b'3000 paradise rd.',b'las vegas',b'french bistro'
+114,0,bone's restaurant, 3130 piedmont rd. ne, atlanta, steakhouses
+115,0,bone's, 3130 piedmont road, atlanta, american
+84,0.8869013,tavern on the green, central park west, new york city, american (new),b'tavern on the green',b'central park west',b'new york city',b'american (new)'
+84,0.8869013,tavern on the green, in central park at 67th st., new york, american,b'tavern on the green',b'central park west',b'new york city',b'american (new)'
+116,0,cafe  ritz-carlton  buckhead, 3434 peachtree rd., atlanta, ext 6108 international
+85,0.79529345,ritz-carlton cafe (buckhead), 3434 peachtree rd. ne, atlanta, american (new),b'ritz-carlton cafe (buckhead)',b'3434 peachtree rd. ne',b'atlanta',b'american (new)'
+86,0.83997107,uncle nick's, 747 9th ave.  between 50th and 51st sts., new york, mediterranean,"b""uncle nick's""",b'747 9th ave.  between 50th and 51st sts.',b'new york',b'mediterranean'
+86,0.83997107,uncle nick's, 747 ninth ave., new york city, greek,"b""uncle nick's""",b'747 9th ave.  between 50th and 51st sts.',b'new york',b'mediterranean'
+87,0.6736874,ritz-carlton cafe (atlanta), 181 peachtree st., atlanta, american (new),b'ritz-carlton cafe (atlanta)',b'181 peachtree st.',b'atlanta',b'american (new)'
+87,0.6736874,ritz-carlton restaurant, 181 peachtree st., atlanta, french (classic),b'ritz-carlton cafe (atlanta)',b'181 peachtree st.',b'atlanta',b'american (new)'
+88,0.81627256,mesa grill, 102 5th ave.  between 15th and 16th sts., new york, american,b'mesa grill',b'102 5th ave.  between 15th and 16th sts.',b'new york',b'american'
+88,0.81627256,mesa grill, 102 fifth ave., new york city, southwestern,b'mesa grill',b'102 5th ave.  between 15th and 16th sts.',b'new york',b'american'
+85,0.79529345,ritz-carlton dining room (buckhead), 3434 peachtree rd. ne, atlanta, american (new),b'ritz-carlton cafe (buckhead)',b'3434 peachtree rd. ne',b'atlanta',b'american (new)'
+89,0.86125803,sign of the dove, 1110 3rd ave. at 65th st., new york, american,b'sign of the dove',b'1110 3rd ave. at 65th st.',b'new york',b'american'
+89,0.86125803,sign of the dove, 1110 third ave., new york city, american (new),b'sign of the dove',b'1110 3rd ave. at 65th st.',b'new york',b'american'
+117,0,dining room  ritz-carlton  buckhead, 3434 peachtree rd., atlanta, international
+90,0.86222243,fringale, 570 4th st., san francisco, french,b'fringale',b'570 4th st.',b'san francisco',b'french'
+90,0.86222243,fringale, 570 fourth st., san francisco, french bistro,b'fringale',b'570 4th st.',b'san francisco',b'french'
+91,0.8329524,carnegie deli, 854 7th ave.  between 54th and 55th sts., new york, delicatessen,b'carnegie deli',b'854 7th ave.  between 54th and 55th sts.',b'new york',b'delicatessen'
+91,0.8329524,carnegie deli, 854 seventh ave., new york city, delis,b'carnegie deli',b'854 7th ave.  between 54th and 55th sts.',b'new york',b'delicatessen'
+118,0,restaurant  ritz-carlton  atlanta, 181 peachtree st., atlanta, continental
+92,0.31949234,ritz-carlton dining room (san francisco), 600 stockton st., san francisco, french (new),b'ritz-carlton dining room (san francisco)',b'600 stockton st.',b'san francisco',b'french (new)'
+92,0.31949234,ritz-carlton restaurant and dining room, 600 stockton st., san francisco, american,b'ritz-carlton dining room (san francisco)',b'600 stockton st.',b'san francisco',b'french (new)'
+93,0.8010584,second avenue deli, 156 2nd ave. at 10th st., new york, delicatessen,b'second avenue deli',b'156 2nd ave. at 10th st.',b'new york',b'delicatessen'
+93,0.8010584,second avenue deli, 156 second ave., new york city, delis,b'second avenue deli',b'156 2nd ave. at 10th st.',b'new york',b'delicatessen'
+119,0,palm  the (los angeles), 9001 santa monica blvd., w. hollywood, steakhouses
+120,0,the palm, 9001 santa monica blvd., los angeles, american
+94,0.17189641,bel-air hotel, 701 stone canyon rd., bel air, californian,b'bel-air hotel',b'701 stone canyon rd.',b'bel air',b'californian'
+94,0.17189641,hotel bel-air, 701 stone canyon rd., bel air, californian,b'bel-air hotel',b'701 stone canyon rd.',b'bel air',b'californian'
+121,0,katsu, 1972 hillhurst ave., los feliz, japanese
+122,0,restaurant katsu, 1972 n. hillhurst ave., los angeles, asian
+95,0.72959834,locanda veneta, 3rd st., los angeles, italian,b'locanda veneta',b'3rd st.',b'los angeles',b'italian'
+95,0.72959834,locanda veneta, 8638 w. third st., los angeles, italian,b'locanda veneta',b'3rd st.',b'los angeles',b'italian'
+123,0,bertolini's, 3500 peachtree rd.  phipps plaza, atlanta, italian
+124,0,bertolini's, 3570 las vegas blvd. s, las vegas, italian
+125,0,morton's, 551 5th ave. at 45th st., new york, american
+126,0,morton's, 8764 melrose ave., los angeles, american
+127,0,remi, 145 w. 53rd st., new york, italian
+128,0,remi, 3rd st. promenade, santa monica, italian
+129,0,water club, 500 e. 30th st., new york, american
+130,0,cypress club, 500 jackson st., san francisco, american
+131,0,le colonial, 149 e. 57th st., new york, asian
+132,0,hard rock cafe, 221 w. 57th st., new york, american
+133,0,hard rock cafe, 8600 beverly blvd., los angeles, american
+134,0,le colonial, 8783 beverly blvd., los angeles, asian
+135,0,splendido embarcadero,4, san francisco, mediterranean
+136,0,center stage plaza hotel, 1 main st., las vegas, american
+137,0,one market, 1 market st., san francisco, american
+138,0,rumpus, 1 tillman pl., san francisco, american
+139,0,ambassador grill, 1 united nations plaza at 44th st., new york, american
+140,0,rain, 100 w. 82nd st., new york, asian
+141,0,sant ambroeus, 1000 madison ave.  between 77th and 78th sts., new york, coffee bar
+142,0,paty's, 10001 riverside dr., toluca lake, american
+143,0,wu kong, 101 spear st., san francisco, asian
+144,0,corrado cafe, 1013 3rd ave.  between 60th and 61st sts., new york, coffee bar
+145,0,pastis, 1015 battery st., san francisco, french
+146,0,diaghilev, 1020 n. san vicente blvd., w. hollywood, russian
+147,0,carey's, 1021 cobb pkwy. se, marietta, hamburgers
+148,0,bar anise, 1022 3rd ave.  between 60th and 61st sts., new york, mediterranean
+149,0,sofia fabulous pizza, 1022 madison ave.  near 79th st., new york, italian
+150,0,joe's, 1023 abbot kinney blvd., venice, american (new)
+151,0,dive!, 10250 santa monica blvd., los angeles, dive american
+152,0,deacon burton's soulfood restaurant, 1029 edgewood ave. se, atlanta, southern/soul
+153,0,teresa's, 103 1st ave.  between 6th and 7th sts., new york, east european
+154,0,103 west, 103 w. paces ferry rd., atlanta, continental
+155,0,c3, 103 waverly pl.  near washington sq., new york, american
+156,0,matthew's, 1030 3rd ave. at 61st st., new york, american
+157,0,frijoleros, 1031 peachtree st. ne, atlanta, tex-mex
+158,0,majestic, 1031 ponce de leon ave., atlanta, diners
+159,0,motown cafe, 104 w. 57th st.  near 6th ave., new york, american
+160,0,indo cafe, 10428 1/2 national blvd., la, indonesian
+161,0,nobu, 105 hudson st., new york city, japanese
+162,0,la cachette, 10506 little santa monica blvd., century city, french (new)
+163,0,main course  the, 10509 w. pico blvd., rancho park, american
+164,0,john o'groats, 10516 w. pico blvd., west la, coffee shops
+165,0,falafel king, 1059 broxton ave., westwood, middle eastern
+166,0,thailand restaurant, 106 bayard st., new york city, thai
+167,0,le chantilly, 106 e. 57th st., new york, french
+168,0,arturo's, 106 w. houston st.  off thompson st., new york, italian
+169,0,rosa mexicano, 1063 1st ave. at 58th st., new york, mexican
+170,0,pamir, 1065 1st ave.  at 58th st., new york, middle eastern
+171,0,jack sprat's grill, 10668 w. pico blvd., los angeles, health food
+172,0,windows on the world, 107th fl., new york city, eclectic
+173,0,south park cafe, 108 south park, san francisco, french
+174,0,apple pan  the, 10801 w. pico blvd., west la, american
+175,0,greenwood's, 1087 green st., roswell, southern/soul
+176,0,penang soho, 109 spring st.  between greene and mercer sts., new york, asian
+177,0,bistango, 1100 peachtree st., atlanta, mediterranean
+178,0,ct, 111 e. 22nd st.  between park ave. s and lexington ave., new york, french
+179,0,restaurant horikawa, 111 s. san pedro st., los angeles, asian
+180,0,spago, 1114 horn ave., los angeles, californian
+181,0,el cholo, 1121 s. western ave., los angeles, mexican
+182,0,sushi nozawa, 11288 ventura blvd., studio city, japanese
+183,0,montien, 1134 1st ave.   between 62nd and 63rd sts., new york, asian
+184,0,baker's cajun cafe, 1134 euclid ave., atlanta, cajun/creole
+185,0,don antonio's, 1136 westwood blvd., westwood, italian
+186,0,south city kitchen, 1144 crescent ave., atlanta, southern
+187,0,michael's (los angeles), 1147 third st., santa monica, californian
+188,0,manhattan cafe, 1161 1st ave.  between 63rd and 64th sts., new york, american
+189,0,taiko, 11677 san vicente blvd., brentwood, noodle shops
+190,0,kiev, 117 second ave., new york city, ukrainian
+191,0,orleans, 11705 national blvd., los angeles, cajun
+192,0,camille's, 1186 n. highland ave., atlanta, italian
+193,0,caffe reggio, 119 macdougal st.  between 3rd and bleecker sts., new york, coffee bar
+194,0,l'auberge, 1191 1st ave.  between 64th and 65th sts., new york, middle eastern
+195,0,russell's burgers, 1198 pch, seal beach, hamburgers
+196,0,milan cafe and coffee bar, 120 w. 23rd st., new york, coffee bar
+197,0,cite, 120 w. 51st st., new york, french
+198,0,dean & deluca, 121 prince st., new york, coffee bar
+199,0,carey's corner, 1215 powers ferry rd., marietta, hamburgers
+200,0,yama, 122 e. 17th st., new york city, japanese
+201,0,i trulli, 122 e. 27th st.  between lexington and park aves., new york, italian
+202,0,yaya cuisine, 1220 9th ave., san francisco, greek and middle eastern
+203,0,ben benson's, 123 w. 52nd st., new york, american
+204,0,stoyanof's cafe, 1240 9th ave., san francisco, greek and middle eastern
+205,0,kalo's coffee house, 1248 clairmont rd., decatur, coffeehouses
+206,0,my thai, 1248 clairmont rd., atlanta, thai
+207,0,il cortile, 125 mulberry st.  between canal and hester sts., new york, italian
+208,0,roettelle a. g, 126 e. 7th st.  between 1st ave. and ave. a, new york, continental
+209,0,il fornaio levi's plaza, 1265 battery st., san francisco, italian
+210,0,kelley & ping, 127 greene st., new york city, pan-asian
+211,0,steakhouse  the, 128 e. fremont st., las vegas, steakhouses
+212,0,binion's coffee shop, 128 fremont st., las vegas, coffee shops/diners
+213,0,ebisu, 1283 ninth ave., san francisco, japanese
+214,0,evergreen cafe, 1288 1st ave. at 69th st., new york, asian
+215,0,golden nugget hotel, 129 e. fremont st., las vegas, buffets
+216,0,lillie langtry's, 129 e. fremont st., las vegas, asian
+217,0,stefano's, 129 fremont st., las vegas, italian
+218,0,sarabeth's, 1295 madison ave., new york city, american
+219,0,boca chica, 13 1st ave.  near 1st st., new york, latin american
+220,0,ipanema, 13 w. 46th st., new york, latin american
+221,0,fog city diner, 1300 battery st., san francisco, american
+222,0,uncle bill's pancake house, 1305 highland ave., manhattan beach, diners
+223,0,mo's burgers, 1322 grant st., san francisco, hamburgers
+224,0,emily's, 1325 5th ave. at 111th st., new york, american
+225,0,san francisco bbq, 1328 18th st., san francisco, thai
+226,0,le soleil, 133 clement st., san francisco, asian
+227,0,s.p.q.r, 133 mulberry st.  between hester and grand sts., new york, italian
+228,0,maxwell's cafe, 13329 washington blvd., marina del rey, american
+229,0,ed debevic's, 134 n. la cienega, los angeles, american
+230,0,hi-life restaurant and lounge, 1340 1st ave. at 72nd st., new york, american
+231,0,cafe michelle, 1350 e. flamingo rd., las vegas, american
+232,0,pacifica, 138 lafayette st.  between canal and howard sts., new york, asian
+233,0,boonthai, 1393a 2nd ave.  between 72nd and 73rd sts., new york, asian
+234,0,planet hollywood, 140 w. 57th st., new york, american
+235,0,ocean avenue, 1401 ocean ave., santa monica, american
+236,0,mambo restaurante cubano, 1402 n. highland ave., atlanta, caribbean
+237,0,zankou chicken, 1415 e. colorado st., glendale, middle eastern
+238,0,osteria al droge, 142 w. 44th st., new york, italian
+239,0,persepolis, 1423 2nd ave.  between 74th and 75th sts., new york, middle eastern
+240,0,t salon, 143 mercer st. at prince st., new york, coffee bar
+241,0,benita's frites, 1433 third st. promenade, santa monica, fast food
+242,0,barbecue kitchen, 1437 virginia ave., atlanta, bbq
+243,0,veselka, 144 second ave., new york city, ukrainian
+244,0,pinot hollywood, 1448 n. gower st., los angeles, californian
+245,0,ocean star, 145 n. atlantic blvd., monterey park, seafood
+246,0,odeon, 145 w. broadway at thomas st., new york, american
+247,0,szechuan kitchen, 1460 first ave., new york city, chinese
+248,0,ruth's chris, 148 w. 51st st., new york, american
+249,0,cafe bianco, 1486 2nd ave.  between 77th and 78th sts., new york, coffee bar
+250,0,posto, 14928 ventura blvd., sherman oaks, italian
+251,0,nuevo laredo cantina, 1495 chattahoochee ave. nw, atlanta, mexican
+252,0,marquet patisserie, 15 e. 12th st.  between 5th ave. and university pl., new york, coffee bar
+253,0,gianni's, 15 fulton st., new york, seafood
+254,0,jewel of india, 15 w. 44th st., new york, asian
+255,0,stars, 150 redwood alley, san francisco, american
+256,0,le marais, 150 w. 46th st., new york, american
+257,0,casa la femme, 150 wooster st.  between houston and prince sts., new york, middle eastern
+258,0,eric's chinese restaurant, 1500 church st., san francisco, chinese
+259,0,shiro, 1505 mission st. s., pasadena, pacific new wave
+260,0,thai house cafe, 151 hudson st., new york city, thai
+261,0,palio, 151 w. 51st. st., new york, italian
+262,0,halcyon, 151 w. 54th st.  in the rihga royal hotel, new york, american
+263,0,mandarin court, 1510 e. flamingo rd., las vegas, asian
+264,0,roscoe's house of chicken 'n' waffles, 1514 n. gower st., los angeles, american
+265,0,swan oyster depot, 1517 polk st., san francisco, seafood
+266,0,judson grill, 152 w. 52nd st., new york, american
+267,0,hyde street bistro, 1521 hyde st., san francisco, italian
+268,0,rubin's red hots, 15322 ventura blvd., encino, hot dogs
+269,0,trois jean, 154 e. 79th st.  between lexington and 3rd aves., new york, coffee bar
+270,0,shun lee palace, 155 e. 55th st., new york city, chinese
+271,0,bistro roti, 155 steuart st., san francisco, french
+96,0.44131315,les celebrites, 155 w. 58th st., new york city, french (classic),b'les celebrites',b'155 w. 58th st.',b'new york city',b'french (classic)'
+272,0,emerald garden restaurant, 1550 california st., san francisco, vietnamese
+273,0,sammy's roumanian steak house, 157 chrystie st. at delancey st., new york, east european
+274,0,duane park cafe, 157 duane st.  between w. broadway and hudson st., new york, american
+275,0,bristol farms market cafe, 1570 rosecrans ave. s., pasadena, californian
+276,0,hamburger mary's, 1582 folsom st., san francisco, hamburgers
+277,0,szechuan hunan cottage, 1588 york ave., new york city, chinese
+278,0,cafe botanica, 160 central park s, new york, french
+96,0.44131315,les celebrites, 160 central park s, new york, french,b'les celebrites',b'155 w. 58th st.',b'new york city',b'french (classic)'
+279,0,chiam, 160 e. 48th st., new york, asian
+280,0,match, 160 mercer st.  between houston and prince sts., new york, american
+281,0,capp's corner, 1600 powell st., san francisco, italian
+282,0,harry denton's, 161 steuart st., san francisco, american
+283,0,faz, 161 sutter st., san francisco, greek and middle eastern
+284,0,yoyo tsumami bistro, 1611 post st., san francisco, french
+285,0,abbey, 163 ponce de leon ave., atlanta, international
+286,0,da nico, 164 mulberry st.  between grand and broome sts., new york, italian
+287,0,moose's, 1652 stockton st., san francisco, mediterranean
+288,0,flying biscuit  the, 1655 mclendon ave., atlanta, eclectic
+289,0,zuni cafe & grill, 1658 market st., san francisco, mediterranean
+290,0,lanza restaurant, 168 1st ave.  between 10th and 11th sts., new york, italian
+291,0,le madri, 168 w. 18th st., new york, italian
+292,0,clearwater cafe, 168 w. colorado blvd., los angeles, health food
+97,0.27067995,caffe lure, 169 sullivan st.  between houston and bleecker sts., new york, french,b'caffe lure',b'169 sullivan st.  between houston and bleecker sts.',b'new york',b'french'
+293,0,one if by land  tibs, 17 barrow st., new york city, continental
+294,0,sanppo, 1702 post st., san francisco, asian
+295,0,mulberry st., 17040 ventura blvd., encino, pizza
+296,0,harold's barbecue, 171 mcdonough blvd., atlanta, bbq
+297,0,chez melange, 1716 pch, redondo beach, eclectic
+298,0,acquarello, 1722 sacramento st., san francisco, italian
+299,0,xunta, 174 1st ave.  between 10th and 11th sts., new york, mediterranean
+300,0,bistro garden, 176 n. canon dr., los angeles, californian
+301,0,carta, 1772 market st., san francisco, american
+302,0,peter luger steak house, 178 broadway, brooklyn, steakhouses
+303,0,san pietro, 18 e. 54th st., new york, italian
+304,0,golden unicorn, 18 e. broadway at catherine st., new york, asian
+305,0,cha cha cha's, 1805 haight st., san francisco, caribbean
+306,0,dix et sept, 181 w. 10th st., new york, french
+307,0,fat matt's rib shack, 1811 piedmont ave.  near cheshire bridge rd., atlanta, barbecue
+308,0,palisades, 1829 peachtree rd., atlanta, continental
+309,0,la serenata de garibaldi, 1842 e. first, st. boyle hts., mexican/tex-mex
+310,0,trio cafe, 1870 fillmore st., san francisco, american
+311,0,colonnade restaurant, 1879 cheshire bridge rd., atlanta, southern
+312,0,patsy's pizza, 19 old fulton st., brooklyn, pizza
+313,0,sea grill, 19 w. 49th st., new york, seafood
+314,0,fiorello's roman cafe, 1900 broadway  between 63rd and 64th sts., new york, italian
+315,0,oritalia, 1915 fillmore st., san francisco, italian
+316,0,hsu's gourmet, 192 peachtree center ave.  at international blvd., atlanta, asian
+317,0,vida, 1930 north hillhurst ave., los feliz, american
+318,0,luna si, 1931 peachtree rd., atlanta, continental
+319,0,perry's, 1944 union st., san francisco, american
+320,0,feast from the east, 1949 westwood blvd., west la, chinese
+321,0,brent's deli, 19565 parthenia ave., northridge, delis
+322,0,cafe pierre, 2 e. 61st st., new york, french
+323,0,kyo-ya. sheraton palace hotel, 2 new montgomery st.  at market st., san francisco, asian
+324,0,american place, 2 park ave. at 32nd st., new york, american
+325,0,newsbar, 2 w. 19th st., new york, coffee bar
+326,0,home, 20 cornelia st.  between bleecker and w. 4th st., new york, american
+327,0,20 mott, 20 mott st.  between bowery and pell st., new york, asian
+328,0,silver skillet  the, 200 14th st. nw, atlanta, coffee shops
+329,0,vong, 200 e. 54th st., new york, american
+330,0,cafe centro, 200 park ave.  between 45th st. and vanderbilt ave., new york, french
+331,0,cafe luxembourg, 200 w. 70th st., new york, french
+332,0,zarzuela, 2000 hyde st., san francisco, mexican/latin american/spanish
+333,0,au mandarin, 200-250 vesey st. world financial center, new york, asian
+98,0.17702812,smith & wollensky, 201 e. 49th st., new york, american,b'smith & wollensky',b'201 e. 49th st.',b'new york',b'american'
+334,0,vicolo pizzeria, 201 ivy st., san francisco, pizza
+335,0,jimmy's, 201 moreno dr., los angeles, continental
+336,0,jody maroni's sausage kingdom, 2011 ocean front walk, venice, hot dogs
+337,0,hugo's cellar, 202 e. fremont st., las vegas, continental
+338,0,harry's bar & american grill, 2020 ave. of the stars, los angeles, italian
+339,0,asahi ramen, 2027 sawtelle blvd., west la, noodle shops
+340,0,betelnut, 2030 union st., san francisco, asian
+341,0,pen & pencil, 205 e. 45th st., new york, american
+342,0,wollensky's grill, 205 e. 49th st., new york city, steakhouses
+343,0,arizona, 206 206 e. 60th st., new york, american
+344,0,california pizza kitchen, 207 s. beverly dr., los angeles, californian
+345,0,girafe, 208 e. 58th st.  between 2nd and 3rd aves., new york, italian
+346,0,gray's papaya, 2090 broadway, new york city, hot dogs
+347,0,arcadia, 21 e. 62nd st., new york city, american (new)
+348,0,flowers, 21 west 17th st.  between 5th and 6th aves., new york, american
+349,0,sparks steak house, 210 e. 46th st., new york city, steakhouses
+350,0,harris', 2100 van ness ave., san francisco, steak houses
+351,0,layla, 211 w. broadway at franklin st., new york, middle eastern
+352,0,rainbow restaurant, 2118 n. decatur rd., decatur, vegetarian
+353,0,vivande porta via, 2125 fillmore st., san francisco, italian
+354,0,wa-ha-ka oaxaca mexican grill, 2141 polk st., san francisco, mexican
+355,0,ernie's, 2150 broadway  between 75th and 76th sts., new york, american
+356,0,sundown cafe, 2165 cheshire bridge rd., atlanta, american
+357,0,mad fish, 2182 broadway  between 77th and 78th sts., new york, seafood
+358,0,jimmy sung's, 219 e. 44th st.  between 2nd and 3rd aves., new york, asian
+359,0,el teddy's, 219 w. broadway  between franklin and white sts., new york, mexican
+360,0,la caridad, 2199 broadway, new york city, cuban
+361,0,veggieland, 220 sandy springs circle, atlanta, vegetarian
+362,0,mario's bohemian cigar store cafe, 2209 polk st., san francisco, italian
+363,0,kuleto's, 221 powell st., san francisco, italian
+364,0,doidge's, 2217 union st., san francisco, american
+365,0,anche vivolo, 222 e. 58th st.  between 2nd and 3rd aves., new york, italian
+366,0,two two two, 222 w. 79th st., new york, american
+367,0,2223, 2223 market st., san francisco, american
+368,0,marnee thai, 2225 irving st., san francisco, thai
+369,0,ruth's chris steak house (los angeles), 224 s. beverly dr., beverly hills, steakhouses
+370,0,brothers bar-b-q, 225 varick st. at clarkston st., new york, american
+371,0,world wrapps, 2257 chestnut st., san francisco, american
+372,0,l'absinthe, 227 e. 67th st., new york, french
+373,0,big cup, 228 8th ave.  between 21st and 22nd sts., new york, coffee bar
+374,0,grand ticino, 228 thompson st.  between w. 3rd and bleecker sts., new york, italian
+375,0,edison cafe, 228 w. 47th st., new york city, diners
+376,0,gallagher's, 228 w. 52nd st., new york, american
+377,0,la salsa (la), 22800 pch, malibu, mexican
+378,0,imperial fez, 2285 peachtree rd.  peachtree battle condominium, atlanta, mediterranean
+379,0,cafe flore, 2298 market st., san francisco, californian
+380,0,martha's, 22nd street grill 25 22nd, st. hermosa beach, american
+381,0,bolo, 23 e. 22nd st., new york, mediterranean
+382,0,coco pazzo, 23 e. 74th st., new york, italian
+383,0,bill's place, 2315 clement st., san francisco, hamburgers
+384,0,cafe marimba, 2317 chestnut st., san francisco, mexican/latin american/spanish
+385,0,hong kong villa, 2332 clement st., san francisco, asian
+386,0,french roast cafe, 2340 broadway at 85th st., new york, coffee bar
+387,0,south of france, 2345 cheshire bridge rd., atlanta, french
+388,0,parioli romanissimo, 24 e. 81st st., new york, italian
+389,0,tadich grill, 240 california st., san francisco, seafood
+390,0,campo santo, 240 columbus ave., san francisco, mexican
+391,0,bruno, 240 e. 58th st., new york, italian
+392,0,elias corner, 24-02 31st st., queens, greek
+393,0,feast, 2411 w. sahara ave., las vegas, buffets
+394,0,the savannah club, 2420 broadway at 89th st., new york, american
+395,0,gilliland's, 2424 main st., santa monica, american
+396,0,bardelli's, 243 o'farrell st., san francisco, old san francisco
+397,0,millennium, 246 mcallister st., san francisco, vegetarian
+398,0,cafe fes, 246 w. 4th st. at charles st., new york, mediterranean
+399,0,house of chan, 2469 cobb pkwy., smyrna, chinese
+400,0,nickiemoto's: a sushi bar, 247 buckhead ave.  east village sq., atlanta, fusion
+401,0,le jardin, 25 cleveland pl.  near spring st., new york, french
+402,0,rib ranch, 25 irby ave., atlanta, barbecue
+403,0,bryant park grill  roof restaurant and bp cafe, 25 w. 40th st.  between 5th and 6th aves., new york, american
+404,0,patria, 250 park ave. s at 20th st., new york, latin american
+405,0,il nido, 251 e. 53rd st., new york, italian
+406,0,rj's the rib joint, 252 n. beverly dr., los angeles, american
+407,0,tommy's, 2575 beverly blvd., la, hamburgers
+408,0,beesley's of buckhead, 260 e. paces ferry road, atlanta, continental
+409,0,beaurivage, 26025 pacific coast hwy., malibu, french
+410,0,drago, 2628 wilshire blvd., santa monica, italian
+411,0,poquito mas, 2635 w. olive ave., burbank, mexican
+412,0,atlanta fish market, 265 pharr rd., atlanta, american
+413,0,new york noodletown, 28 1/2 bowery at bayard st., new york, asian
+414,0,post house, 28 e. 63rd st., new york, american
+415,0,roosevelt tamale parlor, 2817 24th st., san francisco, mexican
+416,0,la mediterranee, 288 noe st., san francisco, mediterranean
+417,0,circus circus, 2880 las vegas blvd. s, las vegas, buffets
+418,0,la taqueria, 2889 mission st., san francisco, mexican
+419,0,ferrier, 29 e. 65th st., new york, french
+420,0,rae's, 2901 pico blvd., santa monica, diners
+421,0,havana sandwich shop, 2905 buford hwy., atlanta, cuban
+422,0,bradshaw's restaurant, 2911 s. pharr court, atlanta, southern/soul
+423,0,adriano's ristorante, 2930 beverly glen circle, los angeles, italian
+424,0,mitali east-west, 296 bleecker st., new york city, indian
+425,0,johnny rockets (at), 2970 cobb pkwy., atlanta, american
+426,0,thepin, 298 gough st., san francisco, asian
+427,0,kuruma zushi, 2nd fl., new york city, japanese
+428,0,serendipity, 3 225 e. 60th st., new york, american
+429,0,la grenouille, 3 e. 52nd st., new york city, french (classic)
+430,0,lola, 30 west 22nd st.  between 5th and 6th ave., new york, american
+431,0,sally's cafe & bakery, 300 de haro st., san francisco, american
+432,0,ralph's diner, 3000 las vegas blvd. s, las vegas, coffee shops/diners
+433,0,il fornaio cucina italiana, 301 n. beverly dr., los angeles, italian
+434,0,peacock alley, 301 park ave.  between 49th and 50th sts., new york, french
+435,0,pane e vino, 3011 steiner st., san francisco, italian
+436,0,morton's of chicago (atlanta), 303 peachtree st. ne, atlanta, steakhouses
+437,0,alamo, 304 e. 48th st., new york, mexican
+438,0,sa tsu ki, 3043 buford hwy., atlanta, asian
+439,0,nava, 3060 peachtree rd., atlanta, southwestern
+440,0,rose of india, 308 e. sixth st., new york city, indian
+441,0,golden steer, 308 w. sahara ave., las vegas, steak houses
+442,0,local nochol, 30869 thousand oaks blvd., westlake village, health food
+443,0,chan dara, 310 n. larchmont blvd., los angeles, asian
+444,0,l'auberge du midi, 310 w. 4th st.  between w. 12th and bank sts., new york, french
+445,0,ti couz, 3108 16th st., san francisco, french
+446,0,anthonys, 3109 piedmont rd.  just south of peachtree rd., atlanta, american
+447,0,alley's end, 311 w. 17th st., new york, american
+448,0,schatzi on main, 3110 main st., los angeles, continental
+449,0,ocean park cafe, 3117 ocean park blvd., santa monica, american
+450,0,margarita's mexican cantina, 3120 las vegas blvd. s, las vegas, mexican
+99,0.8786912,plumpjack cafe, 3127 fillmore st., san francisco, american (new),b'plumpjack cafe',b'3127 fillmore st.',b'san francisco',b'american (new)'
+451,0,north india, 3131 webster st., san francisco, asian
+452,0,monte carlo, 3145 las vegas blvd. s., las vegas, french (new)
+453,0,ton kiang, 3148 geary blvd., san francisco, asian
+454,0,white house restaurant, 3172 peachtree rd. ne, atlanta, diners
+455,0,annie's thai castle, 3195 roswell rd., atlanta, asian
+456,0,caffe vivaldi, 32 jones st. at bleecker st., new york, coffee bar
+457,0,lombardi's, 32 spring st., new york city, pizza
+458,0,new york kom tang soot bul house, 32 w. 32nd st., new york, asian
+459,0,hayes street grill, 320 hayes st., san francisco, seafood
+460,0,morton's of chicago (las vegas), 3200 las vegas blvd. s., las vegas, steakhouses
+99,0.8786912,plumpjack cafe, 3201 fillmore st., san francisco, mediterranean,b'plumpjack cafe',b'3127 fillmore st.',b'san francisco',b'american (new)'
+461,0,mckinnon's louisiane, 3209 maple dr., atlanta, southern
+462,0,barbetta, 321 w. 46th st., new york, italian
+463,0,agrotikon, 322 e. 14 st.  between 1st and 2nd aves., new york, mediterranean
+464,0,orso, 322 w. 46th st., new york, italian
+465,0,dusit thai, 3221 mission st., san francisco, thai
+466,0,manora, 3226 mission st., san francisco, asian
+467,0,the heights, 3235 sacramento st., san francisco, french
+468,0,manila garden, 325 e. 14th st.  between 1st and 2nd aves., new york, asian
+469,0,joe allen, 326 w. 46th st., new york, american
+470,0,cassell's, 3266 w. sixth st., la, hamburgers
+471,0,sylvia's, 328 lenox ave., new york city, southern/soul
+472,0,global, 33 93 2nd ave.  between 5th and 6th sts., new york, american
+473,0,straits cafe, 3300 geary blvd., san francisco, asian
+474,0,buccaneer bay club, 3300 las vegas blvd. s., las vegas, continental
+475,0,madame ching's, 3300 las vegas blvd. s., las vegas, asian
+476,0,cassis, 3300 peachtree rd.  grand hyatt, atlanta, mediterranean
+477,0,kamogawa, 3300 peachtree rd.  grand hyatt, atlanta, asian
+478,0,corner bistro, 331 w. fourth st., new york city, hamburgers
+479,0,kelly's on trinity, 333 bush st., san francisco, californian
+480,0,soto, 3330 piedmont rd., atlanta, japanese
+481,0,capozzoli's, 3333 s. maryland pkwy., las vegas, italian
+482,0,baja fresh, 3345 kimber dr., westlake village, mexican
+483,0,izzy's steak & chop house, 3345 steiner st., san francisco, steak houses
+484,0,cafe adriano, 3347 fillmore st., san francisco, italian
+485,0,mel's drive-in, 3355 geary st., san francisco, hamburgers
+486,0,dante's down the hatch  buckhead, 3380 peachtree rd., atlanta, continental
+487,0,stringer's fish camp and oyster bar, 3384 shallowford rd.  chamblee, atlanta, southern
+488,0,palm  the (atlanta), 3391 peachtree rd. ne, atlanta, steakhouses
+489,0,tomtom, 3393 peachtree rd., atlanta, continental
+490,0,tse yang, 34 e. 51st st., new york, asian
+491,0,zen palate, 34 union sq. e at 16th st., new york, and 212/614-9345 asian
+492,0,felix, 340 w. broadway at grand st., new york, french
+493,0,bistro, 3400 las vegas blvd. s, las vegas, continental
+494,0,mikado, 3400 las vegas blvd. s, las vegas, asian
+495,0,moongate, 3400 las vegas blvd. s., las vegas, chinese
+496,0,diva, 341 w. broadway  near grand st., new york, italian
+497,0,veniero's pasticceria, 342 e. 11th st.  near 1st ave., new york, coffee bar
+498,0,marichu, 342 e. 46th st.  between 1st and 2nd aves., new york, french
+499,0,triangolo, 345 e. 83rd st., new york, italian
+500,0,ca'brea, 346 s. la brea ave., los angeles, italian
+501,0,fleur de jour, 348 e. 62nd st., new york, coffee bar
+502,0,the coffee pot, 350 9th ave. at 49th st., new york, coffee bar
+503,0,spago (las vegas), 3500 las vegas blvd. s., las vegas, californian
+504,0,lettuce souprise you (at), 3525 mall blvd., duluth, cafeterias
+505,0,piero's restaurant, 355 convention center dr., las vegas, italian
+506,0,bugsy's diner, 3555 las vegas blvd. s, las vegas, coffee shops/diners
+507,0,cafe roma, 3570 las vegas blvd. s, las vegas, coffee shops/diners
+508,0,empress court, 3570 las vegas blvd. s, las vegas, asian
+509,0,the bacchanal, 3570 las vegas blvd. s, las vegas, only in las vegas
+510,0,michael's (las vegas), 3595 las vegas blvd. s., las vegas, continental
+511,0,lattanzi ristorante, 361 w. 46th st., new york, italian
+512,0,prego, 362 n. camden dr., los angeles, italian
+513,0,bally's big kitchen, 3645 las vegas blvd. s, las vegas, buffets
+514,0,sterling brunch, 3645 las vegas blvd. s., las vegas, eclectic
+515,0,indian delights, 3675 satellite blvd., duluth, indian
+516,0,cucina della fontana, 368 bleecker st., new york city, italian
+517,0,antonio's, 3700 w. flamingo, las vegas, italian
+518,0,buzio's in the rio, 3700 w. flamingo rd., las vegas, seafood
+519,0,carnival world, 3700 w. flamingo rd., las vegas, buffets
+520,0,fiore rotisserie & grille, 3700 w. flamingo rd., las vegas, italian
+521,0,jackson diner, 37-03 74th st., queens, indian
+522,0,pomaire, 371 w. 46th st.  off 9th ave., new york, latin american
+523,0,venetian, 3713 w. sahara ave., las vegas, italian
+524,0,bobby & june's kountry kitchen, 375 14th st., atlanta, southern/soul
+525,0,tribeca grill, 375 greenwich st.  near franklin st., new york, american
+526,0,emeril's new orleans fish house, 3799 las vegas blvd. s., las vegas, seafood
+527,0,tre visi, 3799 las vegas blvd. s., las vegas, italian
+528,0,republic, 37a union sq. w  between 16th and 17th sts., new york, asian
+529,0,sushisay, 38 e. 51st st., new york city, japanese
+530,0,tra di noi, 3835 cross creek rd., los angeles, italian
+531,0,bruno's, 3838 centinela ave., mar vista, italian
+532,0,caffe roma, 385 broome st. at mulberry, new york, coffee bar
+533,0,turkish kitchen, 386 3rd ave.  between 27th and 28th sts., new york, middle eastern
+534,0,f. ille ponte ristorante, 39 desbrosses st.  near west st., new york, italian
+535,0,menchanko-tei, 39 w. 55th st., new york city, japanese
+536,0,yolie's, 3900 paradise rd., las vegas, steak houses
+537,0,nicky blair's, 3925 paradise rd., las vegas, italian
+538,0,cava, 3rd st., los angeles, mediterranean
+539,0,sofi, 3rd st., los angeles, mediterranean
+540,0,broadway deli, 3rd st. promenade, santa monica, american
+541,0,harbor village, 4 embarcadero center, san francisco, asian
+542,0,gladstone's, 4 fish 17300 pacific coast hwy. at sunset blvd., pacific palisades, american
+543,0,la reserve, 4 w. 49th st., new york, french
+544,0,hudson river club, 4 world financial center, new york, american
+545,0,coco loco, 40  buckhead crossing mall on the sidney marcus blvd., atlanta, caribbean
+546,0,pamplemousse, 400 e. sahara ave., las vegas, continental
+547,0,terrace, 400 w. 119th st.  between amsterdam and morningside aves., new york, continental
+548,0,thep phanom, 400 waller st., san francisco, thai
+549,0,killer shrimp, 4000 colfax ave., studio city, seafood
+550,0,andre's french restaurant, 401 s. 6th st., las vegas, french (classic)
+551,0,johnnie's pastrami, 4017 s. sepulveda blvd., culver city, delis
+552,0,frico bar, 402 w. 43rd st.  off 9th ave., new york, italian
+553,0,battista's hole in the wall, 4041 audrie st. at flamingo rd., las vegas, italian
+554,0,moustache, 405 atlantic ave., brooklyn, middle eastern
+555,0,le perigord, 405 e. 52nd st., new york, french
+556,0,ca'del sol, 4100 cahuenga blvd., los angeles, italian
+557,0,les halles, 411 park ave. s  between 28th and 29th sts., new york, french
+558,0,sam's noodle shop, 411 third ave., new york city, chinese
+559,0,broiler, 4111 boulder hwy., las vegas, american
+560,0,nate 'n' al's, 414 n. beverly dr., los angeles, american
+561,0,canter's, 419 n. fairfax ave., los angeles, american
+562,0,canoe, 4199 paces ferry rd., atlanta, american (new)
+563,0,bouterin, 420 e. 59th st.  off 1st ave., new york, french
+564,0,sarabeth's kitchen, 423 amsterdam ave.  between 80th and 81st sts., new york, american
+565,0,caffe greco, 423 columbus ave., san francisco, continental
+566,0,cafe con leche, 424 amsterdam ave., new york city, cuban
+567,0,yank sing, 427 battery st., san francisco, asian
+568,0,brookhaven cafe, 4274 peachtree rd., atlanta, vegetarian
+569,0,chopstix, 4279 roswell rd., atlanta, chinese
+570,0,stingray, 428 amsterdam ave.  between 80th and 81st sts., new york, seafood
+571,0,shun lee west, 43 w. 65th st., new york, asian
+572,0,helmand, 430 broadway, san francisco, greek and middle eastern
+573,0,indochine, 430 lafayette st.  between 4th st. and astor pl., new york, asian
+574,0,the mandarin, 430 n. camden dr., los angeles, asian
+575,0,l'udo, 432 lafayette st.  near astor pl., new york, french
+576,0,scala's bistro, 432 powell st., san francisco, italian
+577,0,ej's luncheonette, 432 sixth ave., new york city, diners
+578,0,horseradish grill, 4320 powers ferry rd., atlanta, southern
+579,0,original pancake house (at), 4330 peachtree rd., atlanta, american
+580,0,monsoon (ny), 435 amsterdam ave., new york city, thai
+581,0,red tulip, 439 e. 75th st., new york, eastern european
+582,0,jackson's farm, 439 n. beverly drive, los angeles, californian
+583,0,darbar, 44 w. 56th st., new york city, indian
+584,0,la fonda latina, 4427 roswell rd., atlanta, spanish
+585,0,main street, 446 columbus ave.  between 81st and 82nd sts., new york, american
+586,0,cendrillon asian grill & marimba bar, 45 mercer st.  between broome and grand sts., new york, asian
+587,0,ruby's (la), 45 s. fair oaks ave., pasadena, diners
+588,0,bistro 45, 45 s. mentor ave., pasadena, californian
+589,0,louise's trattoria, 4500 los feliz blvd., los angeles, italian
+590,0,capsouto freres, 451 washington st.  near watts st., new york, french
+591,0,le central, 453 bush st., san francisco, french
+592,0,french roast, 458 6th ave. at 11th st., new york, french
+593,0,mavalli palace, 46 e. 29th st., new york, asian
+594,0,caffe dell'artista, 46 greenwich ave., new york, coffee bar
+595,0,marnie's noodle shop, 466 hudson st., new york city, asian
+596,0,johnny reb's southern smokehouse, 4663 long beach blvd., long beach, southern/soul
+597,0,fujiyama mama, 467 columbus ave.  between 82nd and 83rd sts., new york, asian
+598,0,maykadeh, 470 green st., san francisco, greek and middle eastern
+599,0,mayflower cuisinier, 4750 w. sahara ave., las vegas, chinese
+600,0,john's pizzeria, 48 w. 65th st., new york city, pizza
+601,0,good enough to eat, 483 amsterdam ave., new york city, american
+602,0,zab-e-lee, 4837 old national hwy., college park, thai
+603,0,bamboo garden, 4850 flamingo rd., las vegas, asian
+604,0,inca grill, 492 broome st.  near w. broadway, new york, latin american
+605,0,chevys, 4th and howard sts., san francisco, mexican/latin american/spanish
+606,0,border grill, 4th st., los angeles, mexican
+607,0,city grill, 50 hurt plaza, atlanta, international
+608,0,le gamin, 50 macdougal st.  between houston and prince sts., new york, coffee bar
+609,0,pricci, 500 pharr rd., atlanta, italian
+610,0,pacific pan pacific hotel, 500 post st., san francisco, french
+611,0,stars cafe, 500 van ness ave., san francisco, american
+612,0,grand cafe hotel monaco, 501 geary st., san francisco, american
+613,0,jiraffe, 502 santa monica blvd, santa monica, californian
+614,0,le select, 507 columbus ave.  between 84th and 85th sts., new york, american
+615,0,lincoln tavern, 51 w. 64th st., new york, american
+616,0,parkway grill, 510 s. arroyo pkwy., pasadena, californian
+617,0,mary's diner, 5111 w. boulder hwy., las vegas, coffee shops/diners
+618,0,kabuto sushi, 5116 geary blvd., san francisco, asian
+619,0,bernard's, 515 s. olive st., los angeles, continental
+620,0,la cumbre, 515 valencia st., san francisco, mexican
+621,0,stick to your ribs, 5-16 51st ave., queens, bbq
+622,0,l'osteria del forno, 519 columbus ave., san francisco, italian
+623,0,riviera, 519 e. paces ferry rd., atlanta, mediterranean
+624,0,mani's bakery & espresso bar, 519 s. fairfax ave., la, desserts
+625,0,victor's cafe, 52 236 w. 52nd st., new york, latin american
+626,0,cupcake cafe, 522 9th ave. at 39th st., new york, coffee bar
+627,0,firehouse, 522 columbus ave.  between 85th and 86th sts., new york, american
+628,0,dottie's true blue cafe, 522 jones st., san francisco, diners
+629,0,hong kong flower lounge, 5322 geary blvd., san francisco, asian
+630,0,columbus bakery, 53rd sts., new york, coffee bar
+631,0,verbena, 54 irving pl. at 17th st., new york, american
+632,0,fraunces tavern, 54 pearl st. at broad st., new york, american
+633,0,water grill, 544 s. grand ave., los angeles, seafood
+634,0,sal anthony's, 55 irving pl., new york, italian
+635,0,popover cafe, 551 amsterdam ave.  between 86th and 87th sts., new york, american
+636,0,pleasant peasant, 555 peachtree st.  at linden ave., atlanta, american
+637,0,rubicon, 558 sacramento st., san francisco, american
+638,0,bistro  the, 56 e. andrews dr. nw, atlanta, french bistro
+639,0,bix, 56 gold st., san francisco, american
+640,0,fifty seven fifty seven, 57 e. 57th st., new york, american
+641,0,shaan, 57 w. 48th st., new york, asian
+642,0,sfuzzi, 58 w. 65th st., new york, american
+643,0,slanted door, 584 valencia st., san francisco, vietnamese
+644,0,lucky strike, 59 grand st.  between wooster st. and w. broadway, new york, or 212/941-0772 american
+645,0,cafe sunflower, 5975 roswell rd., atlanta, health food
+646,0,bizou, 598 fourth st., san francisco, french
+647,0,empire korea, 6 e. 32nd st., new york, asian
+648,0,follonico, 6 w. 24th st., new york, italian
+649,0,monkey bar, 60 e. 54th st., new york, american
+650,0,west beach cafe, 60 n. venice blvd., los angeles, american
+651,0,china grill, 60 w. 53rd st., new york, american
+652,0,katia's, 600 5th ave., san francisco, 
+653,0,vertigo, 600 montgomery st., san francisco, mediterranean
+654,0,eats, 600 ponce de leon ave., atlanta, italian
+655,0,suppenkuche, 601 hayes st., san francisco, russian/german
+656,0,nicola, 601 s. figueroa st., los angeles, american
+657,0,sato sushi and thai, 6050 peachtree pkwy.  norcross, atlanta, asian
+658,0,macarthur park, 607 front st., san francisco, american
+659,0,hollywood hills coffee shop, 6145 franklin ave., hollywood, coffee shops
+660,0,jack's, 615 sacramento st., san francisco, old san francisco
+661,0,viva mercado's, 6182 w. flamingo rd., las vegas, mexican
+662,0,lemongrass grill, 61a seventh ave., brooklyn, thai
+663,0,spring street natural restaurant & bar, 62 spring st. at lafayette st., new york, american
+664,0,california culinary academy, 625 polk st., san francisco, french
+665,0,lowcountry barbecue, 6301 roswell rd.  sandy springs plaza  sandy springs, atlanta, barbecue
+666,0,r&g lounge, 631 b kearny st., san francisco, or 415/982-3811 asian
+667,0,phnom penh cambodian restaurant, 631 larkin st., san francisco, cambodian
+668,0,docks, 633 3rd ave. at 40th st., new york, seafood
+669,0,gumbo pot  the, 6333 w. third st., la, cajun/creole
+670,0,kokomo cafe, 6333 w. third st., la, american
+671,0,film center cafe, 635 9th ave.  between 44th and 45th sts., new york, american
+672,0,holt bros. bar-b-q, 6359 jimmy carter blvd.  at buford hwy.  norcross, atlanta, barbecue
+673,0,west, 63rd street steakhouse 44 w. 63rd st., new york, american
+674,0,palio d'asti, 640 sacramento st., san francisco, italian
+675,0,pho hoa, 642 broadway, chinatown, vietnamese
+676,0,seventh regiment mess and bar, 643 park ave. at 66th st., new york, american
+677,0,tang pavillion, 65 w. 55th st., new york, asian
+678,0,cha cha cha, 656 n. virgil ave., los angeles, caribbean
+679,0,alon's at the terrace, 659 peachtree st., atlanta, sandwiches
+680,0,vivande ristorante, 670 golden gate ave., san francisco, italian
+681,0,mon kee seafood restaurant, 679 n. spring st., los angeles, asian
+682,0,otabe, 68 e. 56th st., new york, asian
+683,0,jean lafitte, 68 w. 58th st., new york, french
+684,0,gabriela's, 685 amsterdam ave. at 93rd st., new york, mexican
+685,0,westside cottage, 689 ninth ave., new york city, chinese
+686,0,cafe la fortuna, 69 w. 71st st., new york, coffee bar
+687,0,pacific dining car, 6th st., los angeles, american
+688,0,caffe bondi ristorante, 7 w. 20th st., new york, italian
+689,0,vince & eddie's, 70 w. 68th st., new york, american
+690,0,van gogh's restaurant & bar, 70 w. crossville rd., roswell, american (new)
+691,0,chops, 70 w. paces ferry rd., atlanta, steakhouses
+692,0,adrienne, 700 5th ave. at 55th st., new york, french
+693,0,cafe pinot, 700 w. fifth st., los angeles, californian
+694,0,langer's, 704 s. alvarado st., la, delis
+695,0,cafe renaissance, 7050 jimmy carter blvd.  norcross, atlanta, american
+696,0,pink's famous chili dogs, 709 n. la brea ave., la, hot dogs
+697,0,chez jacqueline, 72 macdougal st.  between w. houston and bleecker sts., new york, french
+698,0,mo better meatty meat, 7261 melrose ave., la, hamburgers
+699,0,fishin eddie, 73 w. 71st st., new york, seafood
+700,0,drai's, 730 n. la cienega blvd., los angeles, french
+701,0,tommy tang's, 7313 melrose ave., los angeles, asian
+702,0,des alpes, 732 broadway, san francisco, french
+703,0,tavola calda, 7371 melrose ave., los angeles, italian
+704,0,johnny rockets (la), 7507 melrose ave., la, american
+705,0,sweet'n'tart cafe, 76 mott st. at canal st., new york, asian
+706,0,thelma's kitchen, 764 marietta st. nw, atlanta, cafeterias
+707,0,afghan kebab house, 764 ninth ave., new york city, afghan
+708,0,tortillas, 774 ponce de leon ave. ne, atlanta, tex-mex
+709,0,aleck's barbecue heaven, 783 martin luther king jr. dr., atlanta, barbecue
+710,0,java jive, 790 ponce de leon ave., atlanta, coffee shops
+98,0.17702812,smith & wollensky, 797 third ave., new york city, steakhouses,b'smith & wollensky',b'201 e. 49th st.',b'new york',b'american'
+711,0,tu lan, 8 sixth st., san francisco, vietnamese
+712,0,teresa's, 80 montague st., queens, polish
+713,0,mangia e bevi, 800 9th ave. at 53rd st., new york, italian
+714,0,buca giovanni, 800 greenwich st., san francisco, italian
+715,0,swingers, 8020 beverly blvd., los angeles, american
+97,0.27067995,caffe dante, 81 macdougal st.  between houston and bleeker sts., new york, coffee bar,b'caffe lure',b'169 sullivan st.  between houston and bleecker sts.',b'new york',b'french'
+716,0,internet cafe, 82 e. 3rd st.  between 1st and 2nd aves., new york, coffee bar
+717,0,stage deli, 834 7th ave.  between 53rd and 54th sts., new york, delicatessen
+718,0,sweet lady jane, 8360 melrose ave., la, desserts
+719,0,palm, 837 second ave., new york city, steakhouses
+720,0,cafe '50s, 838 lincoln blvd., venice, american
+721,0,koo koo roo, 8393 w. beverly blvd., la, chicken
+722,0,palm too, 840 second ave., new york city, steakhouses
+723,0,jan's family restaurant, 8424 beverly blvd., la, coffee shops
+724,0,mishima, 8474 w. third st., la, noodle shops
+725,0,il mulino, 86 w. third st., new york city, italian
+726,0,captain's table, 860 2nd ave. at 46th st., new york, seafood
+727,0,first, 87 1st ave.  between 5th and 6th sts., new york, american
+728,0,cucina di pesce, 87 e. fourth st., new york city, seafood
+729,0,r.j.'s uptown kitchen & wine bar, 870 n. highland ave., atlanta, american
+730,0,le dome, 8720 sunset blvd., los angeles, french
+731,0,original pantry bakery, 875 s. figueroa st. downtown, la, diners
+732,0,spago (los angeles), 8795 sunset blvd., w. hollywood, californian
+733,0,eclipse, 8800 melrose ave., los angeles, californian
+734,0,taste of new orleans, 889 w. peachtree st., atlanta, southern
+735,0,duke's, 8909 sunset blvd., w. hollywood, coffee shops
+736,0,9 jones street, 9 jones st., new york, american
+737,0,joe's shanghai, 9 pell st., queens, chinese
+738,0,zoe, 90 prince st.  between broadway and mercer st., new york, american
+739,0,trattoria dell'arte, 900 7th ave.  between 56th and 57th sts., new york, italian
+740,0,r-23, 923 e. third st., los angeles, japanese
+741,0,french quarter food shop, 923 peachtree st.  at 8th st., atlanta, southern
+742,0,joss, 9255 sunset blvd., los angeles, asian
+743,0,benny's burritos, 93 ave. a, new york city, mexican
+744,0,dynasty room, 930 hilgard ave., los angeles, continental
+745,0,aja, 937 broadway at 22nd st., new york, american
+746,0,billy's, 948 1st ave.  between 52nd and 53rd sts., new york, american
+747,0,tapika, 950 8th ave. at 56th st., new york, american
+748,0,dining room, 9500 wilshire blvd., los angeles, californian
+749,0,zarela, 953 second ave., new york city, mexican
+750,0,barney greengrass, 9570 wilshire blvd., beverly hills, american
+751,0,brighton coffee shop, 9600 brighton way, beverly hills, coffee shops
+752,0,cafe blanc, 9777 little santa monica blvd., beverly hills, pacific new wave
+753,0,trader vic's, 9876 wilshire blvd., los angeles, asian
+754,0,belvedere  the, 9882 little santa monica blvd., beverly hills, pacific new wave
+755,0,greens, bldg. a fort mason, san francisco, vegetarian
+756,0,little szechuan, c buford hwy.  northwoods plaza  doraville, atlanta, asian
+757,0,gaylord's, ghirardelli sq., san francisco, asian
+758,0,mccormick & kuleto's, ghirardelli sq., san francisco, seafood
+759,0,la grotta at ravinia dunwoody rd., holiday inn/crowne plaza at ravinia  dunwoody, atlanta, italian
+760,0,oyster bar, lower level, new york city, seafood
+761,0,garden court, market and new montgomery sts., san francisco, old san francisco
+762,0,mi spia dunwoody rd., park place  across from perimeter mall  dunwoody, atlanta, italian
+763,0,dante's down the hatch, underground underground mall  underground atlanta, atlanta, continental
