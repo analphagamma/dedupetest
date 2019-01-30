@@ -7,6 +7,7 @@ from pprint import pprint
 input_file = 'Samples\\clean_sample.csv'
 output_file = 'Output\\sampleoutput.csv'
 
+# delete these two files if you want to go through the whole labelling/training/clustering process
 settings_file = 'csv_example_learned_settings'
 training_file = 'csv_example_training.json'
 
